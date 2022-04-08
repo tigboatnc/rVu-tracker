@@ -25,7 +25,3 @@ Output is stored in the output folder.
 
 >Currently the output contains data from `02-24-2022` to `-` and is updated once a day . 
 
-# More Work  `coming soon`
-- [ ] Post Processor 
-- [ ] Cleaning Pipeline 
-- [ ] SpaCy Post Processor
